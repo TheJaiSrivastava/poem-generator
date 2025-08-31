@@ -12,8 +12,8 @@ This project is a poetry generation application that uses LangChain, FastAPI, an
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone https://github.com/TheJaiSrivastava/poem-generator.git
+cd poem_generator
 ```
 
 2. Create and activate a virtual environment:
@@ -97,3 +97,4 @@ pip install -r requirements.txt
 ## Contributing
 
 [Your contribution guidelines]
+
