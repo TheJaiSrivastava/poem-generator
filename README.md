@@ -83,12 +83,13 @@ The web interface will be available at `http://localhost:8501`
 
 1. If you get "module not found" errors, ensure all required packages are installed:
 ```bash
-pip install -r req.txt
+pip install -r requirements.txt
 ```
 
 2. If Uvicorn isn't recognized, ensure you've activated your virtual environment
 
 3. If you can't connect to the API, make sure both the FastAPI server and Ollama are running
+
 
 
 
