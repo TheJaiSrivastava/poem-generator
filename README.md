@@ -90,11 +90,5 @@ pip install -r requirements.txt
 
 3. If you can't connect to the API, make sure both the FastAPI server and Ollama are running
 
-## License
 
-[Your chosen license]
-
-## Contributing
-
-[Your contribution guidelines]
 
